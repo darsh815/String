@@ -1,6 +1,8 @@
 Java String Manipulation Lab
 A clean, documented collection of Java programs focused on String handling, memory management, and utility methods. This repository serves as a practical guide for understanding why Strings are one of the most important objects in the Java ecosystem.
 
+Built under C-TAG Coding Training Academy by Gandhi's
+Guided by @Palak Paras Gandhi
 📖 Table of Contents
 Overview
 
